@@ -1,5 +1,5 @@
 <h1 align="center">Memories - A Full Stack MERN App</h3> 
-<p> <a href="https://zoharkiks-memories.netlify.app/"><h3 align="center" >Live Site</h3></a>
+<p> <a href="zoharwilliams-memories.netlify.app"><h3 align="center" >Live Site</h3></a>
 </p>
 
 <p align="center">
