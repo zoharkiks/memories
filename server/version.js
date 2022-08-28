@@ -1,5 +1,5 @@
 {
-   "version": 1,
+   "version": 2,
    "name": "memories-app",
    "builds": [
       { "src": "index.js", "use": "@vercel/node" }
