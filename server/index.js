@@ -31,4 +31,3 @@ mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnified
 
 mongoose.set('useFindAndModify', false);
 
-module.exports = app;
