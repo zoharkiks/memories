@@ -30,3 +30,5 @@ mongoose.connect(process.env.CONNECTION_URL, { useNewUrlParser: true, useUnified
   .catch((error) => console.log(`${error} did not connect`));
 
 mongoose.set('useFindAndModify', false);
+
+module.exports = app;
